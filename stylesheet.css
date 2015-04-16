@@ -1,0 +1,8 @@
+p {
+	font-size: 8em;
+	text-align: center;
+}
+
+p:hover {
+    color: #FF704D;
+}
